@@ -1,6 +1,12 @@
 # Personal Data Science Toolkit by [schjck](http://johannes.schoeck.org)
 > Currently in concept phase, development just starting. Will include modules and functions for routine data science projects.
 
+## TODO
+- Write actual content!
+- Check if [import for tests](https://docs.python-guide.org/writing/structure/) works
+- Create and upload [package](https://packaging.python.org/tutorials/packaging-projects/) (automate with GitHub action?)
+- Adapt [setup.py](https://godatadriven.com/blog/a-practical-guide-to-using-setup-py/)
+
 ### Inspiration
 - [Phyton Module Strcture](https://godatadriven.com/blog/a-practical-guide-to-using-setup-py/)
 - [alex franz](https://alexfranz.com/posts/personal-python-data-science-toolkit-part-1/)
@@ -11,16 +17,10 @@ One to two paragraph statement about your product and what it does.
 
 ## Installation
 
-OS X & Linux:
+pip:
 
 ```sh
-npm install my-crazy-module --save
-```
-
-Windows:
-
-```sh
-edit autoexec.bat
+pip install -e git+https://github.com/JSchoeck/schjck.git@master#egg=schjck
 ```
 
 ## Usage example
