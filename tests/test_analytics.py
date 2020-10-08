@@ -1,4 +1,4 @@
-from .context import schjck
+#from .context import schjck
 from schjck.data import cities
 from schjck.analytics import count_missing
 import pytest

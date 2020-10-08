@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 cities = pd.DataFrame(
 data={
@@ -11,7 +12,7 @@ data={
         "Cape Town",
         "Sydney",
     ],
-    "country": ["DE", "AT", "CA", "IN", pd.NA, "ZA", "AUS"],
-    "population": [3750000, 1900000, 1780000, 184100000, 430000, 440000, pd.NA],
+    "country": ["DE", "AT", "CA", "IN", np.nan, "ZA", "AUS"],
+    "population": [3750000, 1900000, 1780000, 184100000, 430000, 440000, np.nan],
 }
 )
