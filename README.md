@@ -20,7 +20,7 @@ One to two paragraph statement about your product and what it does.
 pip:
 
 ```sh
-pip install -e git+https://github.com/JSchoeck/schjck.git@master#egg=schjck
+pip install -e git+https://github.com/JSchoeck/schjck.git@main#egg=schjck
 ```
 
 ## Usage example

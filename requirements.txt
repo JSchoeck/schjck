@@ -1,1 +1,1 @@
-schjck @ git+https://github.com/JSchoeck/schjck.git@master#egg=schjck
+schjck @ git+https://github.com/JSchoeck/schjck.git@main#egg=schjck
