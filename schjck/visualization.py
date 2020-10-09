@@ -3,3 +3,5 @@
 #   Decision surface
 #   
 #   
+
+plt.rcParams['figure.figsize'] = [10,8]
