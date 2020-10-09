@@ -19,6 +19,9 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.6',
+    install_requires=[
+        'pandas>=1.1.1',
+    ],
 	setup_requires=['pytest-runner', 'flake8'],
-	tests_require=['pytest'],
+	tests_require=['pytest>=6.1.0'],
 )

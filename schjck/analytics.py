@@ -1,7 +1,11 @@
 # Functions to write
-#    Plot distributions for all columns/features
 #    Outlier detection for various datatypes (categoric, numeric, timestamps etc.)
 #    Missing values detection and handling
+#    Correlation matrix (or better, see articles)
+#    
+#    
+#    
+#    
 
 import pandas as pd
 from typing import Dict
