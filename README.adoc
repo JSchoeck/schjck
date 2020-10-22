@@ -7,6 +7,15 @@
 - Write actual content!
 - Create and upload https://packaging.python.org/tutorials/packaging-projects/[package] (automate with GitHub action?)
 
+## Planned Content
+- Transformation and easy handling of date - from Nbg construction sites project
+- Standard steps for ML data prep (scaling) and model evaluation (CM plot, feature importance, comparison of different algorithms/parameters) - from DFV project
+- Handle lists (decompose, return unique values) - from DFV project
+- Transform DF columns - from DFV project
+- File handling, import/export - from Nbg cs project
+- Create features from list column - from Nbg cs project
+
+
 ### Inspiration
 - https://godatadriven.com/blog/a-practical-guide-to-using-setup-py/[Phyton Module Strcture]
 - https://alexfranz.com/posts/personal-python-data-science-toolkit-part-1/[alex franz]
